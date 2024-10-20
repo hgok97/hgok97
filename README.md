@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Huseyin
-- 👀 I’m interested in Software Development, Cyber Security
+- 👀 I’m interested in Software Development
