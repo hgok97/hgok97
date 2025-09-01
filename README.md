@@ -7,5 +7,3 @@ This profile showcases a variety of my work, including personal explorations, po
 * 🤖 Artificial Intelligence
 * ⚙️ Optimization Problems
 * 🚀 DevOps
-
-Feel free to explore my repositories!
